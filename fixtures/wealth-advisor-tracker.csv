@@ -1,0 +1,12 @@
+Client,Document,Status,Due Date,Advisor
+Harlow Trust,Government Photo ID,Received,2026-10-01,Dana Reyes
+Harlow Trust,Proof of Address,Uploaded,2026-09-25,Dana Reyes
+Harlow Trust,W-9,Uploaded,2026-10-05,Dana Reyes
+Harlow Trust,Bank Account Details,Pending,2026-10-20,Dana Reyes
+Okafor Family,Government Photo ID,Received,2026-09-20,Marcus Li
+Okafor Family,Proof of Address,Missing,2026-10-01,
+Okafor Family,W-9 Form,Submitted,2026-10-02,Marcus Li
+Okafor Family,Bank Account Details,Completed,2026-10-03,Marcus Li
+Pierce LLC,Photo ID,Uploaded,2026-10-04,Dana Reyes
+Pierce LLC,Proof of Address,Received,2026-10-04,Dana Reyes
+Pierce LLC,W-9 Form,Signed,2026-10-06,Dana Reyes

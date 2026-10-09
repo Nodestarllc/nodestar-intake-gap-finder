@@ -1,0 +1,26 @@
+Case_Reference,Required_Document,Item_Status,Deadline,Case_Lead
+CASE-101,Government Photo ID,Received,2026-09-01,Sarah Chen
+CASE-101,Proof of Address,Pending,2026-09-15,Sarah Chen
+CASE-101,W-9 Form,Received,2026-09-05,Sarah Chen
+CASE-101,Bank Account Details,Missing,2026-09-10,Sarah Chen
+CASE-102,Government Photo ID,Received,2026-09-12,Marcus Vance
+CASE-102,Proof of Address,Received,2026-09-12,Marcus Vance
+CASE-102,W-9 Form,Received,2026-09-14,Marcus Vance
+CASE-102,Bank Account Details,Received,2026-09-14,Marcus Vance
+CASE-103,Government Photo ID,Received,2026-08-20,Elena Rostova
+CASE-103,Proof of Address,Missing,2026-08-25,Elena Rostova
+CASE-103,W-9 Form,Pending,2026-09-30,Elena Rostova
+CASE-103,Bank Account Details,Not Started,2026-09-18,
+CASE-104,Government Photo ID,Received,2026-09-01,
+CASE-104,Proof of Address,Pending,2026-09-28,
+CASE-104,W-9 Form,Under Review,2026-09-25,Sarah Chen
+CASE-105,Government Photo ID,Received,2026-09-02,Marcus Vance
+CASE-105,Proof of Address,Received,2026-09-03,Marcus Vance
+CASE-105,Proof of Address,Missing,2026-09-10,Marcus Vance
+CASE-106,Government Photo ID,Received,2026-09-18,Elena Rostova
+CASE-106,Proof of Address,Received,2026-09-19,Elena Rostova
+CASE-106,W-9 Form,Received,2026-09-20,Elena Rostova
+CASE-107,Government Photo ID,Received,2026-09-20,Sarah Chen
+CASE-107,Bank Account Details,Pending,invalid-date,Sarah Chen
+CASE-108,Government Photo ID,=1+1,2026-09-22,Marcus Vance
+CASE-108,W-9 Form,@SUM(1,2),2026-09-24,Marcus Vance
